@@ -1,0 +1,7 @@
+# Fitzone Gym — robots.txt
+# https://fitzonegym.in/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://fitzonegym.in/sitemap.xml
