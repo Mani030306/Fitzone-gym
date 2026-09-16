@@ -1765,11 +1765,14 @@ footer {
 
   /* Nav */
   #navbar { height: 64px; }
-  .nav-logo { gap: 0.45rem; min-width: 0; }
+  #navbar .container { width: 100%; }
+  .nav-inner { position: relative; }
+  .nav-logo { gap: 0.45rem; min-width: 0; margin-right: 0; }
+  .nav-logo { position: absolute; left: 0; }
   .nav-logo-image { width: 46px; height: 46px; flex-basis: 46px; }
   .nav-logo-main { font-size: 1.3rem; }
   .nav-logo-sub { font-size: 0.5rem; }
-  .nav-actions { gap: 0.25rem; }
+  .nav-actions { gap: 0.25rem; margin-left: 0; position: absolute; right: 0; }
   .hamburger { flex: 0 0 44px; }
   .nav-links, .nav-phone-link { display: none; }
   .hamburger { display: flex; }
