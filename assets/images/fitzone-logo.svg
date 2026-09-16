@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Fitzone Gym logo</title>
+  <desc id="desc">Black, white and red Fitzone Gym emblem with a barbell and strength mark</desc>
+  <rect width="800" height="800" rx="32" fill="#050505"/>
+  <circle cx="400" cy="400" r="365" fill="none" stroke="#f4f4f4" stroke-width="14"/>
+  <circle cx="400" cy="400" r="345" fill="none" stroke="#f21d2f" stroke-width="8"/>
+  <rect x="194" y="132" width="412" height="300" rx="50" fill="none" stroke="#f4f4f4" stroke-width="12"/>
+  <path d="M282 355c-25-52-22-103 19-137 28-24 65-23 92-2 19-42 57-75 103-81 35-4 60 11 78 38-25-8-43-4-58 13 30 5 58 23 75 52 20 34 16 83-11 117-25 30-50 45-73 51v25H292c-2-24-5-48-10-76z" fill="#f4f4f4"/>
+  <path d="M339 173c-6 31 2 59 23 82m73-118c-27 4-50 17-65 39m-63 161c28-14 48-34 61-60m75 56c18-22 28-47 29-76m45-67c-24 13-39 32-45 57" fill="none" stroke="#050505" stroke-width="14" stroke-linecap="round"/>
+  <g fill="none" stroke="#f21d2f" stroke-linecap="round">
+    <path d="M151 206v184M649 206v184" stroke-width="7"/>
+    <path d="M400 126v23M400 448v23" stroke-width="7"/>
+  </g>
+  <g transform="translate(0 34)">
+    <path d="M108 456h584" stroke="#f4f4f4" stroke-width="20"/>
+    <path d="M106 456h588" stroke="#f21d2f" stroke-width="7"/>
+    <path d="M135 415v82M161 400v112M191 416v80M609 415v82M639 400v112M665 415v80" stroke="#f4f4f4" stroke-width="18"/>
+  </g>
+  <text x="400" y="600" text-anchor="middle" fill="#f4f4f4" font-family="Impact, sans-serif" font-size="86" letter-spacing="4">FIT<tspan fill="#f21d2f">ZONE</tspan></text>
+  <path d="M160 630h480" stroke="#f21d2f" stroke-width="7"/>
+  <text x="400" y="674" text-anchor="middle" fill="#f4f4f4" font-family="Arial, sans-serif" font-size="22" letter-spacing="8">A PROFESSIONAL ONE</text>
+  <text x="400" y="720" text-anchor="middle" fill="#f4f4f4" font-family="Arial, sans-serif" font-size="14" letter-spacing="7">TRAIN  |  TRANSFORM  |  TOGETHER</text>
+</svg>
